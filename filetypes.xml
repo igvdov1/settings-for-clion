@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="output" type="AUTO_DETECTED" />
+      <mapping pattern="dfas" type="AUTO_DETECTED" />
+      <mapping pattern="ffile" type="AUTO_DETECTED" />
+      <mapping pattern="input" type="AUTO_DETECTED" />
+      <mapping pattern="dsk;a" type="AUTO_DETECTED" />
+      <mapping pattern="input2 fds" type="AUTO_DETECTED" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <removed_mapping ext="cue" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
