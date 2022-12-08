@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/nsu-engischool-oop/lab3-igvdov1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nsu-engischool-oop/lab6-igvdov1" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\igvdo\CLionProjects" />
